@@ -15,6 +15,8 @@ live preview: https://krudzinska.github.io/retronav/
 
 ## 3. Project Shelter - a responsive web for animal shelter, with animals database:
 
-in progress
+status: in progress
 
 ***Technologies: HTML, CSS, Sass, Webpack, JavaScript, React, ReactRouter***
+
+live preview: https://krudzinska.github.io/projectshelter/dist/
