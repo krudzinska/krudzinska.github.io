@@ -20,9 +20,7 @@ live preview: https://krudzinska.github.io/retronav/
 
 ***Technologies: HTML, CSS, Sass, Webpack, JavaScript, React, ReactRouter***
 
-## 4. Sit on chair
-
-a workshop project - single-page web for a store with order calculator
+## 4. Sit on chair - a workshop project - single-page web for a store with order calculator
 
 ***Technologies: HTML, CSS, JavaScript, jQuery***
 
